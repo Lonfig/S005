@@ -1,1 +1,1 @@
-# S005 https://github.com/Lonfig/I002
+# S005 Suprunov A.A. PR-395
